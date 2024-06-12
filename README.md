@@ -12,6 +12,10 @@ As a senior data analyst at the company, you've been given access to the complet
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
 
+Pymaceuticals Inc.
+
+Analysis
+
 The Capomulin and Ramicane drug regimens were the most effective in reducing tumor volume in mice. Infubinol and Ceftamin regimens had larger average final tumor volumes and greater tumor volume variance. A strong positive correlation (correlation coefficient of 0.84) was observed between mouse weight and average tumor volume for the Capomulin regimen. The linear regression plot confirmed that as mouse weight increased, average tumor volume also increased. Controlling for mouse weight is crucial when interpreting preclinical study resultsAdd your analysis here.
 
 I am unable to figure out why my correlation and regression coding is not wokring.
