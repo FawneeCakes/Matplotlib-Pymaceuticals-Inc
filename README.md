@@ -19,3 +19,5 @@ Analysis
 The Capomulin and Ramicane drug regimens were the most effective in reducing tumor volume in mice. Infubinol and Ceftamin regimens had larger average final tumor volumes and greater tumor volume variance. A strong positive correlation (correlation coefficient of 0.84) was observed between mouse weight and average tumor volume for the Capomulin regimen. The linear regression plot confirmed that as mouse weight increased, average tumor volume also increased. Controlling for mouse weight is crucial when interpreting preclinical study resultsAdd your analysis here.
 
 I am unable to figure out why my correlation and regression coding is not wokring.
+
+Resources: In class assignments for this module as reference, Stack Overflow: How to show matplotlib plots?, YouTube: Matplotlib Full Python Course - Data Science Fundamentals
